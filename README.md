@@ -25,7 +25,7 @@ This project provides a RESTful API for optimizing room occupancy in a hotel. Th
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/iyarmalovich/qa-integration-java-coding-challenge.git
 cd qa-integration-java-coding-challenge
 ```
 
