@@ -1,1 +1,1 @@
-# iyarmalovich-qa-integration-java-coding-challenge
+# qa-integration-java-coding-challenge
